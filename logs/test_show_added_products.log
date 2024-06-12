@@ -1,0 +1,30 @@
+INFO ===> Test test_show_added_products started at 2024-04-18 23:20:56.096936
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="fd374c5f-c7ed-46b9-8d3c-f5ca4d85fc08")> started
+INFO Input text on 'SEARCH_FIELD'
+INFO Click 'SEARCH'
+INFO Input text on 'SEARCH_FIELD'
+INFO Click 'SEARCH'
+INFO Input text on 'SEARCH_FIELD'
+INFO ===> Test test_show_added_products finished at 2024-04-18 23:21:16.379042
+INFO ===> Test test_show_added_products started at 2024-04-18 23:24:32.503712
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="68a2067c-575a-41a4-bfd5-6fdf6addae34")> started
+INFO Input text on 'SEARCH_FIELD'
+INFO Click 'SEARCH'
+INFO Input text on 'SEARCH_FIELD'
+INFO Click 'SEARCH'
+INFO Input text on 'SEARCH_FIELD'
+INFO Click 'SEARCH'
+INFO Input text on 'SEARCH_FIELD'
+INFO Click 'SEARCH'
+INFO ===> Test test_show_added_products finished at 2024-04-18 23:25:00.280837
+INFO ===> Test test_show_added_products started at 2024-04-18 23:25:17.928413
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="b6d7aca5-9e1d-45c8-acd9-9762a90c4c97")> started
+INFO Input text on 'SEARCH_FIELD'
+INFO Click 'SEARCH'
+INFO Input text on 'SEARCH_FIELD'
+INFO Click 'SEARCH'
+INFO Input text on 'SEARCH_FIELD'
+INFO Click 'SEARCH'
+INFO Input text on 'SEARCH_FIELD'
+INFO Click 'SEARCH'
+INFO ===> Test test_show_added_products finished at 2024-04-18 23:25:37.811805

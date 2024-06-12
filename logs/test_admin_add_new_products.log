@@ -1,0 +1,262 @@
+INFO ===> Test test_admin_add_new_products started at 2024-04-16 11:55:41.805069
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="45d665a4-6295-482c-93c7-8e773634a084")> started
+INFO Enter administrator details
+INFO Enter administrator login
+INFO Enter administrator password
+INFO Click on 'Login'
+INFO Click on 'Catalog'
+INFO Click on 'Products'
+INFO Click on 'Add new'
+INFO Enter product name
+INFO Enter product description
+INFO Enter product meta tag title
+INFO Click on 'Data'
+INFO Enter product model
+INFO Click on 'Links'
+INFO Enter product category
+INFO ===> Test test_admin_add_new_products finished at 2024-04-16 11:56:07.069143
+INFO ===> Test test_admin_add_new_products started at 2024-04-16 11:58:03.040575
+INFO ===> Test test_admin_add_new_products started at 2024-04-16 11:58:10.350382
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="cdced569-c9b6-412a-a49a-af71e3951644")> started
+INFO Enter administrator details
+INFO Enter administrator login
+INFO Enter administrator password
+INFO Click on 'Login'
+INFO Click on 'Catalog'
+INFO Click on 'Products'
+INFO Click on 'Add new'
+INFO Enter product name
+INFO Enter product description
+INFO ===> Test test_admin_add_new_products finished at 2024-04-16 11:58:28.331740
+INFO ===> Test test_admin_add_new_products started at 2024-04-16 12:03:15.751454
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="e4243a84-a78c-4a32-a8b7-9603d773f7dd")> started
+INFO Enter administrator details
+INFO Enter administrator login
+INFO Enter administrator password
+INFO Click on 'Login'
+INFO Click on 'Catalog'
+INFO Click on 'Products'
+INFO Click on 'Add new'
+INFO Enter product name
+INFO Going to description iframe
+INFO Enter product description
+INFO ===> Test test_admin_add_new_products finished at 2024-04-16 12:03:33.948700
+INFO ===> Test test_admin_add_new_products started at 2024-04-16 12:05:19.638194
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="56877b24-5513-4c21-a1ea-f8b5a3c7a25a")> started
+INFO Enter administrator details
+INFO Enter administrator login
+INFO Enter administrator password
+INFO Click on 'Login'
+INFO Click on 'Catalog'
+INFO Click on 'Products'
+INFO Click on 'Add new'
+INFO Enter product name
+INFO Going to description iframe
+INFO Enter product description
+INFO ===> Test test_admin_add_new_products finished at 2024-04-16 12:05:37.762402
+INFO ===> Test test_admin_add_new_products started at 2024-04-16 12:05:54.268728
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="a9458d86-71ed-433e-8780-90983b95da51")> started
+INFO Enter administrator details
+INFO Enter administrator login
+INFO Enter administrator password
+INFO Click on 'Login'
+INFO Click on 'Catalog'
+INFO Click on 'Products'
+INFO Click on 'Add new'
+INFO Enter product name
+INFO Going to description iframe
+INFO Enter product description
+INFO ===> Test test_admin_add_new_products finished at 2024-04-16 12:06:12.439203
+INFO ===> Test test_admin_add_new_products started at 2024-04-18 10:46:45.501885
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="d83f47e6-6f35-4cb5-a8d6-f6a41edd06c3")> started
+INFO Enter administrator details
+INFO Enter administrator login
+INFO Enter administrator password
+INFO Click on 'Login'
+INFO Click on 'Catalog'
+INFO Click on 'Products'
+INFO Click on 'Add new'
+INFO Enter product name
+INFO Going to description iframe
+INFO Enter product description
+INFO ===> Test test_admin_add_new_products finished at 2024-04-18 10:47:10.851450
+INFO ===> Test test_admin_add_new_products started at 2024-04-18 10:49:22.033577
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="439130b1-4c5b-4d9d-8071-9c539009e748")> started
+INFO Enter administrator details
+INFO Enter administrator login
+INFO Enter administrator password
+INFO Click on 'Login'
+INFO Click on 'Catalog'
+INFO Click on 'Products'
+INFO Click on 'Add new'
+INFO Enter product name
+INFO Going to description iframe
+INFO Enter product description
+INFO ===> Test test_admin_add_new_products finished at 2024-04-18 10:49:41.236642
+INFO ===> Test test_admin_add_new_products started at 2024-04-18 10:50:15.630287
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="e912f201-173d-4c18-956e-38061affa56f")> started
+INFO Enter administrator details
+INFO Enter administrator login
+INFO Enter administrator password
+INFO Click on 'Login'
+INFO Click on 'Catalog'
+INFO Click on 'Products'
+INFO Click on 'Add new'
+INFO Enter product name
+INFO Going to description iframe
+INFO Enter product description
+INFO Enter product meta tag title
+INFO Click on 'Data'
+INFO Enter product model
+INFO Click on 'Links'
+INFO Enter product category
+INFO Click on 'SEO'
+INFO Enter keyword
+INFO Click on 'Save'
+INFO Click on 'Logo'
+INFO Click on 'Catalog'
+INFO ===> Test test_admin_add_new_products finished at 2024-04-18 10:50:38.569421
+INFO ===> Test test_admin_add_new_products started at 2024-04-18 10:54:20.904272
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="b141b7b0-9e1e-46ec-938a-324260521308")> started
+INFO Enter administrator details
+INFO Enter administrator login
+INFO Enter administrator password
+INFO Click on 'Login'
+INFO Click on 'Catalog'
+INFO Click on 'Products'
+INFO Click on 'Add new'
+INFO Enter product name
+INFO Enter product description
+INFO Enter product meta tag title
+INFO Click on 'Data'
+INFO Enter product model
+INFO Click on 'Links'
+INFO Enter product category
+INFO Click on 'SEO'
+INFO Enter keyword
+INFO Click on 'Save'
+INFO Click on 'Logo'
+INFO Click on 'Catalog'
+INFO Click on 'Products'
+INFO Click on 'Add new'
+INFO ===> Test test_admin_add_new_products finished at 2024-04-18 10:54:51.491718
+INFO ===> Test test_admin_add_new_products started at 2024-04-18 10:59:48.838112
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="fe24f9a9-0dca-4caa-9682-d66cefe77bef")> started
+INFO Enter administrator details
+INFO Enter administrator login
+INFO Enter administrator password
+INFO Click on 'Login'
+INFO Click on 'Catalog'
+INFO Click on 'Products'
+INFO Click on 'Add new'
+INFO Enter product name
+INFO Enter product description
+INFO Enter product meta tag title
+INFO Click on 'Data'
+INFO Enter product model
+INFO Click on 'Links'
+INFO Enter product category
+INFO Click on 'SEO'
+INFO Enter keyword
+INFO Click on 'Save'
+INFO Click on 'Logo'
+INFO Click on 'Products'
+INFO Click on 'Add new'
+INFO Enter product name
+INFO Enter product description
+INFO Enter product meta tag title
+INFO Click on 'Data'
+INFO Enter product model
+INFO Click on 'Links'
+INFO Enter product category
+INFO Click on 'SEO'
+INFO Enter keyword
+INFO Click on 'Save'
+INFO Click on 'Logo'
+INFO Click on 'Products'
+INFO Click on 'Add new'
+INFO Enter product name
+INFO Enter product description
+INFO Enter product meta tag title
+INFO Click on 'Data'
+INFO Enter product model
+INFO Click on 'Links'
+INFO Enter product category
+INFO Click on 'SEO'
+INFO Enter keyword
+INFO Click on 'Save'
+INFO Click on 'Logo'
+INFO Click on 'Products'
+INFO Click on 'Add new'
+INFO Enter product name
+INFO Enter product description
+INFO Enter product meta tag title
+INFO Click on 'Data'
+INFO Enter product model
+INFO Click on 'Links'
+INFO Enter product category
+INFO Click on 'SEO'
+INFO Enter keyword
+INFO Click on 'Save'
+INFO Click on 'Logo'
+INFO ===> Test test_admin_add_new_products finished at 2024-04-18 11:00:47.154644
+INFO ===> Test test_admin_add_new_products started at 2024-04-19 00:02:59.473411
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="faea6915-08a9-40ce-9411-a46f147275c7")> started
+INFO Enter administrator details
+INFO Enter administrator login
+INFO Enter administrator password
+INFO Click on 'Login'
+INFO Click on 'Catalog'
+INFO Click on 'Products'
+INFO Click on 'Add new'
+INFO Enter product name
+INFO Enter product description
+INFO Enter product meta tag title
+INFO Click on 'Data'
+INFO Enter product model
+INFO Click on 'Links'
+INFO Enter product category
+INFO Click on 'SEO'
+INFO Enter keyword
+INFO Click on 'Save'
+INFO Click on 'Logo'
+INFO Click on 'Products'
+INFO Click on 'Add new'
+INFO Enter product name
+INFO Enter product description
+INFO Enter product meta tag title
+INFO Click on 'Data'
+INFO Enter product model
+INFO Click on 'Links'
+INFO Enter product category
+INFO Click on 'SEO'
+INFO Enter keyword
+INFO Click on 'Save'
+INFO Click on 'Logo'
+INFO Click on 'Products'
+INFO Click on 'Add new'
+INFO Enter product name
+INFO Enter product description
+INFO Enter product meta tag title
+INFO Click on 'Data'
+INFO Enter product model
+INFO Click on 'Links'
+INFO Enter product category
+INFO Click on 'SEO'
+INFO Enter keyword
+INFO Click on 'Save'
+INFO Click on 'Logo'
+INFO Click on 'Products'
+INFO Click on 'Add new'
+INFO Enter product name
+INFO Enter product description
+INFO Enter product meta tag title
+INFO Click on 'Data'
+INFO Enter product model
+INFO Click on 'Links'
+INFO Enter product category
+INFO Click on 'SEO'
+INFO Enter keyword
+INFO Click on 'Save'
+INFO Click on 'Logo'
+INFO ===> Test test_admin_add_new_products finished at 2024-04-19 00:03:51.703017

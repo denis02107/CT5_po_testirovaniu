@@ -1,0 +1,15 @@
+INFO ===> Test test_deleted_products started at 2024-04-19 00:04:55.525372
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="8f185bdb-4fa3-4a96-b85f-a2fe4593b3ed")> started
+INFO Input text on 'SEARCH_FIELD'
+INFO Click 'SEARCH'
+INFO Get search result
+INFO Input text on 'SEARCH_FIELD'
+INFO Click 'SEARCH'
+INFO Get search result
+INFO Input text on 'SEARCH_FIELD'
+INFO Click 'SEARCH'
+INFO Get search result
+INFO Input text on 'SEARCH_FIELD'
+INFO Click 'SEARCH'
+INFO Get search result
+INFO ===> Test test_deleted_products finished at 2024-04-19 00:05:15.257986
